@@ -20,12 +20,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94786746412']
-global.premium = ['94786746412']
-global.ownernomer = '94786746412'
+global.owner = ['94779581789']
+global.premium = ['94779581789']
+global.ownernomer = '94779581789'
 global.ownername = 'SANDUN THILINA'
 global.botname = 'I Am 💝❄KING SADU❄️💝'
-global.footer = '©𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- 𝘐𝘴𝘩𝘢𝘯 𝘚𝘢𝘯𝘥𝘦𝘦𝘱𝘢.'
+global.footer = '©𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- SANDUN THILINA.'
 global.ig = 'SANDUN THILINA'
 global.region = 'Sri Lanka'
 global.sc = 'https://m.facebook.com/GamingNethuwa/'
