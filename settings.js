@@ -1,8 +1,8 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              💝❄D͎A͎R͎K͎  I̟S̟H̟U̟ ❄️💝*
+//                              💝❄KING SADU❄️💝*
 //
-//                                         Made By  Ishan Sandeepa
+//                                         Made By  SANDUN THILINA
 //
 //════════════════════════════//
 
@@ -23,16 +23,16 @@ global.APIKeys = {
 global.owner = ['94786746412']
 global.premium = ['94786746412']
 global.ownernomer = '94786746412'
-global.ownername = 'Ishan Sandeepa'
-global.botname = 'I Am 💝❄D͎A͎R͎K͎ I̟S̟H̟U̟ ❄️💝'
+global.ownername = 'SANDUN THILINA'
+global.botname = 'I Am 💝❄KING SADU❄️💝'
 global.footer = '©𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- 𝘐𝘴𝘩𝘢𝘯 𝘚𝘢𝘯𝘥𝘦𝘦𝘱𝘢.'
-global.ig = 'Ishan Sandeepa'
+global.ig = 'SANDUN THILINA'
 global.region = 'Sri Lanka'
 global.sc = 'https://m.facebook.com/GamingNethuwa/'
-global.myweb = 'https://www.youtube.com/c/SinhanadaMusicRemix'
-global.packname = '𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- 𝘐𝘴𝘩𝘢𝘯 𝘚𝘢𝘯𝘥𝘦𝘦𝘱𝘢'
-global.author = '𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- 𝘐𝘴𝘩𝘢𝘯 𝘚𝘢𝘯𝘥𝘦𝘦𝘱𝘢'
-global.sessionName = 'session'
+global.myweb = 'https://youtube.com/c/KingSadu'
+global.packname = '𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- SANDUN THILINA'
+global.author = '𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:-  SANDUN THILINA'
+global.sessionName = 'KING SADU🥰'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
@@ -43,7 +43,7 @@ global.mess = {
     group: 'Groups වල විතරයි පුලුවන්!',
     private: 'Private Chat වල විතරයි පුලුවන්!',
     bot: 'මෙම විශේෂාංගය Bot සඳහා පමණි',
-    wait: 'පොඩ්ඩක් ඉන්න මගේ මැණික Wait ⏳ ...',
+    wait: 'පොඩ්ඩක් ඉන්න Please Wait ⏳ ...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
